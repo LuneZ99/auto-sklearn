@@ -6,7 +6,7 @@ numpy>=1.9.0
 scipy>=0.14.1
 
 scikit-learn>=0.19,<0.20
-xgboost>=0.80
+xgboost>=0.80,<0.90
 
 lockfile
 joblib
@@ -17,5 +17,5 @@ pandas
 
 ConfigSpace>=0.4.0,<0.5
 pynisher>=0.4.2
-pyrfr>=0.7,<0.8
+pyrfr>=0.7,<0.9
 smac==0.8
